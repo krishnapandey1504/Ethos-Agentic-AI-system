@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Ethos-Agentic-AI-system
-=======
 # Ethos Agentic AI System – Hackathon Submission
 
 ## Overview
@@ -19,4 +16,3 @@ This Agentic AI system tackles logic-based questions by reasoning over a trainin
 git clone <repo_url>
 cd agentic_system
 pip install -r requirements.txt
->>>>>>> 5389bd2 (Initial commit: Agentic AI Hackathon MVP)
